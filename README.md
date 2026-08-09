@@ -4,7 +4,7 @@
 ![Honour](https://img.shields.io/badge/First%20Class%20Honours-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Turnitin-Indexed-red?style=for-the-badge)
 
-> **Declassified Academic Archive:** Complete project reports, technical presentations, field survey calculations, and deliverable submissions from the Department of Land Surveying and Geospatial Science (LSGS), the Hong Kong Polytechnic University.
+> **Declassified Academic Archive:** Group reports, presentations, and deliverable submissions from the Department of Land Surveying and Geospatial Science (LSGS), the Hong Kong Polytechnic University.
 
 ---
 
